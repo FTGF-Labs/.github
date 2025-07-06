@@ -41,8 +41,6 @@ We welcome contributions from developers of all skill levels! Here’s how you c
 ## Contact Us
 
 - Visit our GitHub organization page: [https://github.com/FTGF-Labs](https://github.com/FTGF-Labs)  
-- Email: contact@ftgflabs.com (replace with your real contact if you have)  
-- Join our community on [Discord/Slack/Other platform] (if applicable)
 
 ---
 
